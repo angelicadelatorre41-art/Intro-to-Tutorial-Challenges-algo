@@ -1,1 +1,1 @@
-# Intro-to-Tutorial-Challenges-algo
+# Intro-to-Tutorial-Challenges-algo The function searches for the value V in a sorted list and returns its position (index). It simply uses the built-in IndexOf() method to find where V is located in the array.
